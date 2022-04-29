@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReproNet6", "ReproNet6\ReproNet6.csproj", "{A9968073-2BE6-4193-B755-673E79C8EE1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReproNetFramework", "ReproNetFramework\ReproNetFramework.csproj", "{588C30D4-945D-46AF-BFAA-FDFC677B71CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9968073-2BE6-4193-B755-673E79C8EE1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9968073-2BE6-4193-B755-673E79C8EE1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9968073-2BE6-4193-B755-673E79C8EE1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9968073-2BE6-4193-B755-673E79C8EE1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{588C30D4-945D-46AF-BFAA-FDFC677B71CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{588C30D4-945D-46AF-BFAA-FDFC677B71CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{588C30D4-945D-46AF-BFAA-FDFC677B71CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{588C30D4-945D-46AF-BFAA-FDFC677B71CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
